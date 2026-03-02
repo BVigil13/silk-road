@@ -1,7 +1,7 @@
 sections:
   - name: first
-    display: Women in China
+    display: First Category
   - name: second
-    display: Women in India 
+    display: Second Category
   - name: piano
-    display: Women in Iraq
+    display: Piano Category 
