@@ -2,8 +2,8 @@
 author: B Vigil
 title: "Upperclass Women's Clothing in 8th Century India"
 layout: scrollstory
-header-image: images/ota-gate-khiva2.jpg
-thumbnail: images/ota-gate-demo-gray.png
+header-image: images/SariPlaceHolder.jpeg
+thumbnail: images/SariPlaceHolder.jpeg
 summary: In India, the Silk Road and trade routes influenced fashion in many ways.
 ---
 
