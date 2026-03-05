@@ -14,12 +14,12 @@ This essay demonstrates the **simplest approach**. It uses only basic components
 The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
 
 
-## Your First Section Heading
+## Upperclass Women in India and What They Wore
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://commons.wikimedia.org/wiki/File:Khiva_town_of_The_Silk_Road_(%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%BD,_%D0%98%D1%87%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BB%D0%B0,_%D0%A5%D0%B8%D0%B2%D0%B0).jpg)"
-image-path="images/ota-gate-khiva.jpg"
+caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://miro.medium.com/v2/resize:fit:640/format:webp/1*4-o2b0RYK9IGB4LRsYP0xg.png)"
+image-path="images/ancient-indian-clothing.png"
 %}
 
 This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
