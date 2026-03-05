@@ -1,17 +1,17 @@
 ---
 author: student name
-title: "Altarpiece from a Monastery"
+title: "Sari from India"
 layout: base
-header-image: images/han-coin-two-sides-violet.png
-thumbnail: images/han-coin-violet.png
-summary: This image is of the Han coin, not an altarpiece from a monastery.
-geo: [47.199, 102.834]
-placename: Karakorum
+header-image: images/sari.png
+thumbnail: images/sari.png
+summary: This image is of a sari made from cotton and metal from the 17th century
+geo: [10.78893506233893, 79.13454178786513]
+placename: Thanjavur
 tags:
   - object
 ---
 
-# The Altarpiece from a Monastery
+# The Cotton Sari from India
 
 This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
 
