@@ -1,10 +1,10 @@
 ---
 author: B Vigil
-title: "Upperclass Women's Clothing in 8th Century India"
-layout: scrollstory
+title: "Upperclass Women in India"
+layout: base
 header-image: images/mirror-handle-from-india.jpg
 thumbnail: images/mirror-handle-from-india.jpg
-summary: In India, the Silk Road and trade routes influenced fashion in many ways.
+summary: In the pre-modern era, higher class women wore intricate and beautiful outfits.
 ---
 
 # Example Thematic Essay
@@ -14,18 +14,19 @@ This essay demonstrates the **simplest approach**. It uses only basic components
 The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
 
 
-## Upperclass Women in India and What They Wore
+## Your First Section Heading
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a mirror handle found in India. It is part of a series found, this specific on depicts a woman playing the lute. We can also see how her top is designed." [Source](https://images.metmuseum.org/CRDImages/as/original/DT8673.jpg)"
+caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://commons.wikimedia.org/wiki/File:Khiva_town_of_The_Silk_Road_(%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%BD,_%D0%98%D1%87%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BB%D0%B0,_%D0%A5%D0%B8%D0%B2%D0%B0).jpg)"
+image-path="images/ota-gate-khiva.jpg"
 %}
 
-The mirror handle on the right depicts a high class woman playing the lute. We know she is high class due to her intricate clothing items. The Met claims this item was also part of a luxury item trade.
+This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
 
 Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
 
-[^randomthing]: A mirror handle found in India, there are many similar items found across the silk road route.
+[^randomthing]:Put your source information here.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
 
