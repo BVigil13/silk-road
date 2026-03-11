@@ -2,8 +2,8 @@
 author: B Vigil
 title: "Upperclass Women's Clothing in 8th Century India"
 layout: scrollstory
-header-image: images/SariPlaceHolder.jpeg
-thumbnail: images/SariPlaceHolder.jpeg
+header-image: images/mirror-handle-from-india.jpg
+thumbnail: images/mirror-handle-from-india.jpg
 summary: In India, the Silk Road and trade routes influenced fashion in many ways.
 ---
 
@@ -18,15 +18,14 @@ The text below is mostly filler to show how an essay flows, but we'll call out k
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://miro.medium.com/v2/resize:fit:640/format:webp/1*4-o2b0RYK9IGB4LRsYP0xg.png)"
-image-path="images/ancient-indian-clothing.png"
+caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source]"(https://images.metmuseum.org/CRDImages/as/original/DT8673.jpg)"
 %}
 
 This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
 
 Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
 
-[^randomthing]:Put your source information here.
+[^randomthing]: A mirror handle found in India, there are many similar items found across the silk road route.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
 
