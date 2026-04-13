@@ -2,11 +2,11 @@
 author: B Vigil
 title: "Glass Bowl Base"
 layout: base
-header-image: images/glass-bowl-base.jpg
-thumbnail: images/glass-bowl-base.jpg
-summary: This is a figure from the Tang Dynasty in China. It depicts a higher class woman draped in a green outfit.
+header-image: images/shard.jpg
+thumbnail: images/shard.jpg
+summary: This is a shard of a glass bowl with the portrait of a woman painted on it. She was painted with gold leaf.
 geo: [35.067319136432275, 104.31154445961776]
-placename: China
+placename: Byzantine or Rome
 tags:
   - object
 ---
