@@ -4,8 +4,8 @@ title: "Statuette of a Woman"
 layout: base
 header-image: images/statuette.jpg
 thumbnail: images/statuette.jpg
-summary: Stauette of a woman, likely depicting a city.
-geo: [35.067319136432275, 104.31154445961776]
+summary: Statuette of a woman, likely depicting a city.
+geo: [41.010, 28.947]
 placename: Byzantine
 tags:
   - object

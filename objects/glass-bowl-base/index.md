@@ -5,7 +5,7 @@ layout: base
 header-image: images/shard.jpg
 thumbnail: images/shard.jpg
 summary: This is a shard of a glass bowl with the portrait of a woman painted on it. She was painted with gold leaf.
-geo: [35.067319136432275, 104.31154445961776]
+geo: [41.903, 12.899]
 placename: Byzantine or Rome
 tags:
   - object
