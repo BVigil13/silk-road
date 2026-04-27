@@ -22,13 +22,12 @@ image-path="https://images.metmuseum.org/CRDImages/as/original/DT8673.jpg"
 
 This mirror handle is from India in the 6th or 7th century. It is made of cholite schist, a type of rock that has a dull green shade as seen in the image. There are a few similar objects depicting presumably high class women in leisurely positions. These were also likely luxury goods.[^randomthing]
 
-[^randomthing]:The Met Museum, Galley 237
+[^randomthing]:Mirror Handle with a Woman Playing the Lute, 6th-7th Century, Sculpture, The Met Fifth Avenue, Gallery 237, accessed March 11, 2026, https://www.metmuseum.org/art/collection/search/38424.
 
-This mirror handle, being a luxury good, depicts a woman who is likely upper class. This is a reasonable estimate due to her having leisure time, as well as women likely wanting to see themselves depicted in an object they would use frequently. Her outfit also has a significant amount of detail, suggesting her clothing to be well made. Though we cannot tell exactly what type of cloth she is wearing, rough estimates can be made. According to _________, _____ was the most popular fabric for high class women's clothing at the time. We can also see there is likely beading around her neckline, and these would likely have been made of "________' (cite). The way her hair is styled also lends itself to the idea that she was lilkely based off a higher status woman, as "______________" (cite).
 
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan.[^anotherrandomthing]
+This mirror handle, being a luxury good, depicts a woman who is likely upper class. This is a reasonable estimate due to her having leisure time, as well as women likely wanting to see themselves depicted in an object they would use frequently. Her outfit also has a significant amount of detail, suggesting her clothing to be well made. Though we cannot tell exactly what type of cloth she is wearing, rough estimates can be made. According to Lola Davidson's article 'Woven Webs: Trading Textiles around the Indian Ocean',"Women wove cotton, raffia and indigenous silk into a warp-striped clothcalled a lamba which was used as either a skirt or a shawl."[^anotherrandomthing] There is also what appears to be beading on her outfit, specifically on the top. Due to it's proximity and the important exchange between India and Sri Lanka, it can be assumed that this is gemstones or ivory of some kind. In Sri Lanka, Davidson states "All cloth for the traditional dress of sarong and sash was imported from India in exchange for Sri Lanka’s exports of gemstones, rare woods, ivory, elephants and cinnamon."[^anotherrandomthing] With the importance of trade between Sri Lanka and India, due to Sri Lanka's lack of indiginous cloth agriculture in the 1st to 4th century, this exchange would have been frequent. If a woman is of high status, it is natural to assume that if she is decorated with gems, they could be the ones from Sri Lanka.
 
-[^anotherrandomthing]:Put your next footnote source information here.
+[^anotherrandomthing]:Lola Sharon Davidson, “Woven Webs: Trading Textiles around the Indian Ocean,” PORTAL Journal of Multidisciplinary International Studies 9, no. 1 (June 6, 2012), https://doi.org/10.5130/portal.v9i1.2562.
 
 
 ## Section Headings Create Visual Breaks
@@ -62,5 +61,6 @@ Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut i
 
 ## Bibliography
 
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
-- Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
+- Mirror Handle with a Woman Playing the Lute, 6th-7th Century, Sculpture, The Met Fifth Avenue, Gallery 237, accessed March 11, 2026, https://www.metmuseum.org/art/collection/search/38424.
+
+- Davidson, Lola Sharon. “Woven Webs: Trading Textiles around the Indian Ocean.” PORTAL Journal of Multidisciplinary International Studies 9, no. 1 (June 6, 2012). https://doi.org/10.5130/portal.v9i1.2562.
