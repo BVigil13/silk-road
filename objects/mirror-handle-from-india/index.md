@@ -11,7 +11,7 @@ tags:
   - object
 ---
 
-# Mirror Handle from Jammu and Kashmir
+## Mirror Handle from Jammu and Kashmir
 
 {% include images/figure.html
 class="right"

@@ -11,7 +11,7 @@ tags:
   - object
 ---
 
-# Seated Court Lady
+## Seated Court Lady
 {% include images/figure.html
 class="right"
 width="48%"

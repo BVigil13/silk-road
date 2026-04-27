@@ -11,26 +11,23 @@ tags:
   - object
 ---
 
-# Statuette of a Woman
+## Statuette of a Woman
 
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
-
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
-
-
-## Your First Section Heading
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://images.metmuseum.org/CRDImages/as/original/DP227159.jpg)"
+caption="This is a coppor-alloy statuette of a woman. She likely once had a spear. [Source](https://images.metmuseum.org/CRDImages/as/original/DP227159.jpg)"
 image-path="images/seated-court-lady.jpg"
 %}
 
-This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
+This object is from Byzantine in the 5th or 6th century. It is made from a copper alloy. It depicts a woman, standing proud. Her arms suggest she once held a spear. She may have been created as a depiction of a city, similar to Athena being the goddess of Athens. We can see upon her head she wears what appears to be a crown, suggesting nobility or some other kind of high status. 
 
-Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
+Her outfit initally appears simple, a kind of cloth drapped around her. However, when we look at the intricacy of the drapery, we can examine more about who this woman likely could have been depicting. She appears to also have a sash underneath her bust, something that was in fashion in ______. According to _______, "_________" This influence was ________.
 
-[^randomthing]:Put your source information here.
+
+While we cannot tell what kind of fabric she is wearing, we can reasonably assume it is ______, because according to ______, "_____________." We can see, as we did with her style, that cloth was even influenced by _______.[^randomthing]
+
+[^randomthing]:The Met Museum, Gallery 301
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
 
