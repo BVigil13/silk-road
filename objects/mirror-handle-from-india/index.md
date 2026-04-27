@@ -13,26 +13,18 @@ tags:
 
 # Mirror Handle from Jammu and Kashmir
 
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
-
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
-
-
-## Your First Section Heading
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://images.metmuseum.org/CRDImages/as/original/DT8673.jpg)"
+caption="Mirror Handle with a Woman Playing the Lute [Source](https://images.metmuseum.org/CRDImages/as/original/DT8673.jpg)"
 image-path="https://images.metmuseum.org/CRDImages/as/original/DT8673.jpg"
 %}
 
-This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
+This mirror handle is from India in the 6th or 7th century. It is made of cholite schist, a type of rock that has a dull green shade as seen in the image. There are a few similar objects depicting presumably high class women in leisurely positions. These were also likely luxury goods.[^randomthing]
 
-Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
+[^randomthing]:The Met Museum, Galley 237
 
-[^randomthing]:Put your source information here.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
+This mirror handle, being a luxury good, depicts a woman who is likely upper class. This is a reasonable estimate due to her having leisure time, as well as women likely wanting to see themselves depicted in an object they would use frequently. Her outfit also has a significant amount of detail, suggesting her clothing to be well made. Though we cannot tell exactly what type of cloth she is wearing, rough estimates can be made. According to _________, _____ was the most popular fabric for high class women's clothing at the time. We can also see there is likely beading around her neckline, and these would likely have been made of "________' (cite). The way her hair is styled also lends itself to the idea that she was lilkely based off a higher status woman, as "______________" (cite).
 
 Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan.[^anotherrandomthing]
 
