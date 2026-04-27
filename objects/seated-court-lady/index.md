@@ -12,29 +12,22 @@ tags:
 ---
 
 # Seated Court Lady
-
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
-
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
-
-
-## Your First Section Heading
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://images.metmuseum.org/CRDImages/as/original/DP227159.jpg)"
+caption="This figurine depicts a woman in a bright green outfit. She is a court woman, meaning she was in higher status than msot women. [Source](https://images.metmuseum.org/CRDImages/as/original/DP227159.jpg)"
 image-path="images/seated-court-lady.jpg"
 %}
 
-This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
+This figurine is from the Tang Dynasty, in China. It depicts a high class woman draped in a green outfit. It is earthenware, colored with a tri-color glaze. She is seen wearing an outer jacket of sorts, a sash and skirts. This item is found in the Met Museum.
 
-Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
+The stool the woman is seated on also suggests that this item, and the Tang dyanasty courts, were influenced by international trade. It appears to be in an hourglass shape, and was "originally made of rattan in South Asia," (Met, cite later). This type of stool appearing in China suggests extensive trade, whether by land or sea. The extensive trade also suggests that the owner of the figurine was well-versed in high society in Tang China, which lends itself to this being a realistic depiction of a woman of that time.[^randomthing]
 
-[^randomthing]:Put your source information here.
+[^randomthing]:The Met Museum, Gallery 207
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
+Something that may not be obvious upon first glance, but tells a great deal about this woman is actually her weight. She is plump, suggesting that she does not need to worry about food. This tells us that she is likely a wealthy woman. By her feet, we can also see that this woman had a dog. This dog, given it's size, was not for hunting but rather companion ship. This also helps to affirm that she was of high status, thus her clothing likely was something a real court woman would have worn.From here, we can examine the clothing the artist has decided to carve and paint on her. She wears a bright green outfit with yellow on her sleeves. We cannot tell what fabric her clothing is made of, however we can make an estimate.
 
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan.[^anotherrandomthing]
+According to ______, "________________' and was popular for upper societal clothing in the Tang dynasty. We can reasonably assume then, that this woman would have likely worn something similar if she really existed. [^anotherrandomthing]
 
 [^anotherrandomthing]:Put your next footnote source information here.
 
