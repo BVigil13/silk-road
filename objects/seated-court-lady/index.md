@@ -23,13 +23,16 @@ This figurine is from the Tang Dynasty, in China. It depicts a high class woman 
 
 The stool the woman is seated on also suggests that this item, and the Tang dyanasty courts, were influenced by international trade. It appears to be in an hourglass shape, and was "originally made of rattan in South Asia," (Met, cite later). This type of stool appearing in China suggests extensive trade, whether by land or sea. The extensive trade also suggests that the owner of the figurine was well-versed in high society in Tang China, which lends itself to this being a realistic depiction of a woman of that time.[^randomthing]
 
-[^randomthing]:The Met Museum, Gallery 207
+[^randomthing]:Seated Court Lady, Tang Dynasty (618-907), Earthenware with tri-color (sancai) glaze, The Met Fifth Avenue, Gallery 207, accessed March 11, 2026, https://www.metmuseum.org/art/collection/search/75765.
 
-Something that may not be obvious upon first glance, but tells a great deal about this woman is actually her weight. She is plump, suggesting that she does not need to worry about food. This tells us that she is likely a wealthy woman. By her feet, we can also see that this woman had a dog. This dog, given it's size, was not for hunting but rather companion ship. This also helps to affirm that she was of high status, thus her clothing likely was something a real court woman would have worn.From here, we can examine the clothing the artist has decided to carve and paint on her. She wears a bright green outfit with yellow on her sleeves. We cannot tell what fabric her clothing is made of, however we can make an estimate.
 
-According to ______, "________________' and was popular for upper societal clothing in the Tang dynasty. We can reasonably assume then, that this woman would have likely worn something similar if she really existed. [^anotherrandomthing]
+Something that may not be obvious upon first glance, but tells a great deal about this woman is actually her weight. She is plump, suggesting that she does not need to worry about food. This tells us that she is likely a wealthy woman. By her feet, we can also see that this woman had a dog. This dog, given it's size, was not for hunting but rather companion ship. This also helps to affirm that she was of high status, thus her clothing likely was something a real court woman would have worn. From here, we can examine the clothing the artist has decided to carve and paint on her. She wears a bright green outfit with yellow on her sleeves. According to 'Empire of Style'"the staples of a Tang woman’s wardrobe included an unlined short robe or top (shan) or a short jacket (ru), a skirt (qun), and shawl (pibo)," [^anotherrandomthing] which she has on underneath her coat, or ao. We know this because we can clearly see her skirt, qun, and that her top has multiple layers. She also appears to have a shawl, pibo, wrapped loosly around her chest before being tied off with a belt of sorts.
 
-[^anotherrandomthing]:Put your next footnote source information here.
+Despite having a rough idea of what exactly she is wearing, from the figurine alone we cannot tell what it is made of. Luckily, there are many records of what court women and other high status women would wear in Tang China due to their prolific trade and documentation. According to Empire of Style, "Each ensemble began with the short robe (shan), made from a single cut of silk fabric," which means silk was the main textile of the outfit. Silk is one of the most prized textiles of this time due to its versitility and rarity that China proported. Silk "was foundational to the exercize of imperial power" [^anotherrandomthing] in Tang China.
+
+
+[^anotherrandomthing]:Buyun Chen, Empire of Style : Silk and Fashion in Tang China (Seattle: University Of Washington Press, 2019), 95
+[^anotherrandomthing]:Chen, Empire of Style : Silk and Fashion in Tang China, 120
 
 
 ## Section Headings Create Visual Breaks
@@ -63,5 +66,5 @@ Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut i
 
 ## Bibliography
 
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
-- Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
+- Buyun Chen. Empire of Style : Silk and Fashion in Tang China. Seattle: University Of Washington Press, 2019.
+- Seated Court Lady, Tang Dynasty (618-907), Earthenware with tri-color (sancai) glaze, The Met Fifth Avenue, Gallery 207, accessed March 11, 2026, https://www.metmuseum.org/art/collection/search/75765.
