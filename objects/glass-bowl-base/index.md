@@ -11,28 +11,20 @@ tags:
   - object
 ---
 
-# Glass Bowl Base
+## Glass Bowl Base
 
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
-
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
-
-
-## Your First Section Heading
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://images.metmuseum.org/CRDImages/as/original/DP227159.jpg)"
-image-path="images/seated-court-lady.jpg"
+caption="This is a shard of a glass bowl. The figure is painted with gold leaf. [Source](https://www.metmuseum.org/art/collection/search/465928)"
+image-path="shard.jpg"
 %}
 
-This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
+This object is a fragment from a bowl base. It is from the Byzantine empire or the Roman. While hard to pin down its location due to similar artstyles and the moving of the Roman capital, we do know the bowl is from around the 4th century. The bowl is also made of glass and she was painted with gold leaf. As you can see, it has a portrait of a woman printed on it. Her clothing is elegant, and it appears she has a scroll. While we cannot see the full picture, we can tell she was likely noble.[^randomthing]
 
-Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
+[^randomthing]:The Met Museum, Gallery 300
 
-[^randomthing]:Put your source information here.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
+As with the other objects listed on this site, it is not possible to tell exactly what kind of cloth her clothing is made of. However, given that we have a general area and a rough time period, we can take an estimate given what is known about trade in the area and popular fashions. According to _______, "______________." Given this, _____________. We can also see the intricate details on her outfit. There appears to be what looks like roundels on her clothing, which suggests Persian influence. This can suggest trade having an influence on clothing as well. 
 
 Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan.[^anotherrandomthing]
 

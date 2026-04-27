@@ -17,7 +17,7 @@ tags:
 class="right"
 width="48%"
 caption="This is a coppor-alloy statuette of a woman. She likely once had a spear. [Source](https://images.metmuseum.org/CRDImages/as/original/DP227159.jpg)"
-image-path="images/seated-court-lady.jpg"
+image-path="images/statuette.jpg"
 %}
 
 This object is from Byzantine in the 5th or 6th century. It is made from a copper alloy. It depicts a woman, standing proud. Her arms suggest she once held a spear. She may have been created as a depiction of a city, similar to Athena being the goddess of Athens. We can see upon her head she wears what appears to be a crown, suggesting nobility or some other kind of high status. 
