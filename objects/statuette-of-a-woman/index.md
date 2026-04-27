@@ -33,5 +33,5 @@ Regardless, we cannot tell from the statuette alone what her outfit would be mad
 
 ## Bibliography
 
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
+- Ball, Jennifer. Byzantine Dress: A Guide. Taylor & Francis, 2024.
 - Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
