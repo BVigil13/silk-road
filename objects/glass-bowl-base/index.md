@@ -20,15 +20,15 @@ caption="This is a shard of a glass bowl. The figure is painted with gold leaf. 
 image-path="shard.jpg"
 %}
 
-This object is a fragment from a bowl base. It is from the Byzantine empire or the Roman. While hard to pin down its location due to similar artstyles and the moving of the Roman capital, we do know the bowl is from around the 4th century. The bowl is also made of glass and she was painted with gold leaf. As you can see, it has a portrait of a woman printed on it. Her clothing is elegant, and it appears she has a scroll. While we cannot see the full picture, we can tell she was likely noble.[^randomthing]
+This object is a fragment from a bowl base. It is from the Byzantine empire or the Roman. While hard to pin down its location due to similar artstyles and the moving of the Roman capital, we do know the bowl is from around the 4th century. The bowl is also made of glass and she was painted with gold leaf. As you can see, it has a portrait of a woman printed on it. Her clothing is elegant, and it appears she has a scroll. While we cannot see the full picture, we can tell she was likely noble.[^source1]
 
-[^randomthing]:The Met Museum, Gallery 300
+[^source1]:The Met Museum, Gallery 300
 
 As with the other objects listed on this site, it is not possible to tell exactly what kind of cloth her clothing is made of. However, given that we have a general area and a rough time period, we can take an estimate given what is known about trade in the area and popular fashions. According to _______, "______________." Given this, _____________. We can also see the intricate details on her outfit. There appears to be what looks like roundels on her clothing, which suggests Persian influence. This can suggest trade having an influence on clothing as well. 
 
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan.[^anotherrandomthing]
+Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan.[^source2]
 
-[^anotherrandomthing]:Put your next footnote source information here.
+[^source2]:Put your next footnote source information here.
 
 
 ## Section Headings Create Visual Breaks
