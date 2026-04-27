@@ -24,43 +24,22 @@ This object is a fragment from a bowl base. It is from the Byzantine empire or t
 
 [^source1]:The Met Museum, Gallery 300
 
-As with the other objects listed on this site, it is not possible to tell exactly what kind of cloth her clothing is made of. However, given that we have a general area and a rough time period, we can take an estimate given what is known about trade in the area and popular fashions. According to _______, "______________." Given this, _____________. We can also see the intricate details on her outfit. There appears to be what looks like roundels on her clothing, which suggests Persian influence. This can suggest trade having an influence on clothing as well. 
+As with the other objects listed on this site, it is not possible to tell exactly what kind of cloth her clothing is made of. However, given that we have a general area and a rough time period, we can take an estimate given what is known about trade in the area and popular fashions. According to Byzantine Dress; A Guide, "By the fourth century... a fulllength, long-sleeved tunic woven to shape on the loom"[^source2] was in fashion. The garment was loose fitting, but was often cinched under the breasts to appear more flattering, though for lower class women was utilitarian. "In the fourth and fifth centuries, women, especially upper-class women, often wore an outer tunic with ample sleeves, sometimes long, sometimes short, over an under tunic, with long, narrow sleeves," which was considered modest, yet still enticing.[^source3] This appears similar to what the woman on the shard is wearing, even if we do not have an exact location still due to the blending of the cultures. The woman also may have been married, as by the 6th century having hair up was considered proper for women. However, we cannot know for certain, though her jewlery also ties into that narrative.
 
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan.[^source2]
+# Details
 
-[^source2]:Put your next footnote source information here.
-
-
-## Section Headings Create Visual Breaks
-Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
-
-**Why this matters:** Breaking essays into clear sections makes writing more manageable. Write one section at a time, preview it, then move to the next. No need to tackle the entire essay at once.
-
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis.
+This jewlery is part of the intricate details of her outfit. She is clearly wearing large earrings, something that in the 6th century would be used to emphasise her neck. Because she is uncovered we can also presume this woman is at home, rather than outside if she is indeed Byzantinian. Many Byzantinian women wore something called a *palla*, which was a "long rectangular cloth panel that could be draped around the torso in a variety
+of ways and, when needed, also used to cover the head,"[^source4] though this can also be attirbuted to this artwork being from earlier. It is unclear if this type of veiling began in the 6th century or before, as women were underrepressented in many works. There also appears to be what looks like roundels on her clothing, which suggests some Persian influence. However, there is not enough detail to be positive. What is certain, is her clothing is clearly that of a noble woman, and the painting in gold also suggests this.
 
 
-## Pull Quotes Add Emphasis
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis.
+[^source2]:Jennifer Ball, Byzantine Dress: A Guide (Taylor & Francis, 2024), 22
+[^source3]:Jennifer Ball, Byzantine Dress: A Guide (Taylor & Francis, 2024), 22
+[^source4]:Jennifer Ball, Byzantine Dress: A Guide (Taylor & Francis, 2024), 23
 
-{% include typography/aside.html class="right" text="
-This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
-
-The pull quote you just saw is created with a simple `include` command in Markdown. It's one of many reusable components in Xanthan. You can put important quotes, key statistics, or memorable phrases in these boxes to create visual interest and emphasize crucial points.
-
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
-
-## Images Can Be Different Widths
-{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)" image-path="images/han-coin-two-sides-blushwood.png" %}
-
-The image to the right is **wider than the previous one** (60% instead of 48%). You control this with the `width` parameter in the image code. Want a small image? Use 30%. Want something that dominates? Try 70%.
-
-Images can also be left-aligned (use `class="left"`) or centered full-width (we'll show that in more advanced essays). For Seedling level, right-aligned images at 48-60% width work well for most purposes.
-
-Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque.
 
 ---
 
 ## Bibliography
 
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
-- Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
+- Ball, Jennifer. Byzantine Dress: A Guide. Taylor & Francis, 2024.
+- Fragmentary Bowl Base with the Portrait of a Woman. 400AD. Glass, Goldleaf. The Met Fifth Avenue. Gallery 300. https://www.metmuseum.org/art/collection/search/465928.
