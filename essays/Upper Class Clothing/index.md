@@ -13,10 +13,11 @@ The Silk Road, while not a set route across Asia and the Middle East, was signif
 
 
 ## Tang China
+
 {% include images/figure.html
 class="left"
 width="48%"
-caption="Right-aligned images work exactly like Seedling and Sapling. Every skill you've learned carries forward. [Source](Chen, BuYun. 2019. Empire of Style : Silk and Fashion in Tang China. Seattle: University of Washington Press. Accessed March 11, 2026. ProQuest Ebook Central.)"
+caption="Court Ladies Pinning Their Hair with Flowers [Source](Chen, BuYun. 2019. Empire of Style : Silk and Fashion in Tang China. Seattle: University of Washington Press. Accessed March 11, 2026. ProQuest Ebook Central.)"
 image-path="images/tang-dynasty-women.jpg"
 %}
 
@@ -25,8 +26,8 @@ In Tang China from the 6th to 8th centuries, there is evidence of women wearing 
 {% include images/figure.html
 class="right"
 width="48%"
-caption="Group of Attendants and Court Ladies, 706 A.D."[Source](Group of Attendants and Court Ladies, 706 A.D. Painted mural, 176 cm x 196.5 cm, Princess Yongtai’s
-tomb antechamber, East wall, Shaanxi History Museum, Shaanxi province)
+caption="Group of Attendants and Court Ladies, 706 A.D. [Source](Group of Attendants and Court Ladies, 706 A.D. Painted mural, 176 cm x 196.5 cm, Princess Yongtai’s
+tomb antechamber, East wall, Shaanxi History Museum, Shaanxi province)"
 image-path="images/Court_Ladies_of_the_Tang_hufu.jpg"
 %}
 
@@ -35,12 +36,10 @@ Another popular style for women was hufu dress, which was made up of “composed
 {% include images/figure.html
 class="left"
 width="48%"
-caption="Tomb Figures of Four Ladies Playing Polo"[Source](Tomb Figures of Four Ladies of the Court Playing Polo, ca. seventh-eighth century,
-painted pottery, 10 in x 5.5 in x 13.5 in, Xi’an, Shaanxi province, Nelson Atkins Museum of
+caption="Tomb Figures of Four Ladies Playing Polo [Source](Tomb Figures of Four Ladies of the Court Playing Polo, ca. seventh-eighth century, painted pottery, 10 in x 5.5 in x 13.5 in, Xi’an, Shaanxi province, Nelson Atkins Museum of
 Art, Kansas City. https://art.nelson-atkins.org/objects/19795/four-ladies-of-the-court-playing-
 polo;jsessionid=D63181814A10F1B65E5A7CEA8B9ED641?ctx=44577f1c-2994-4b5a-be01-
-15b47b38c5a5&idx=4806
-)
+15b47b38c5a5&idx=4806)"
 image-path="images/court-ladies-playing-polo.jpg"
 %}
 
