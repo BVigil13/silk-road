@@ -31,10 +31,8 @@ tomb antechamber, East wall, Shaanxi History Museum, Shaanxi province)"
 image-path="images/Court_Ladies_of_the_Tang_hufu.jpg"
 %}
 
-Another popular style for women was hufu dress, which was made up of “composed of robes, such as the kaftan or tunic, a belt, trousers, boots and hats” [^source2]. It was very simple, and this simplicity lent itself well to outdoor activity. However, as this was a foreign fashion style from Persia, and typically for men, it was looked down on for women to wear. While *Court Ladies Pinning Their Hair With Flowers* was classical Tang clothing for women, hufu was “a type of Tang fashion, which inspired women to push the boundaries of the Tang female identity” [^source3]. In the mural in the tomb of Princess Yongtai, there is a depiction of this style on elite women, though this was not an elite-only fashion. This embrace of *hufu* also allowed women to play polo as well, which is seen in ceramic figurines from the Tang Dynasty. [^source4]
-
 {% include images/figure.html
-class="center"
+class="left"
 width="48%"
 caption="Tomb Figures of Four Ladies Playing Polo [Source](Tomb Figures of Four Ladies of the Court Playing Polo, ca. seventh-eighth century, painted pottery, 10 in x 5.5 in x 13.5 in, Xi’an, Shaanxi province, Nelson Atkins Museum of
 Art, Kansas City. https://art.nelson-atkins.org/objects/19795/four-ladies-of-the-court-playing-
@@ -42,6 +40,10 @@ polo;jsessionid=D63181814A10F1B65E5A7CEA8B9ED641?ctx=44577f1c-2994-4b5a-be01-
 15b47b38c5a5&idx=4806)"
 image-path="images/court-ladies-playing-polo.jpg"
 %}
+
+Another popular style for women was hufu dress, which was made up of “composed of robes, such as the kaftan or tunic, a belt, trousers, boots and hats” [^source2]. It was very simple, and this simplicity lent itself well to outdoor activity. However, as this was a foreign fashion style from Persia, and typically for men, it was looked down on for women to wear. While *Court Ladies Pinning Their Hair With Flowers* was classical Tang clothing for women, hufu was “a type of Tang fashion, which inspired women to push the boundaries of the Tang female identity” [^source3]. In the mural in the tomb of Princess Yongtai, there is a depiction of this style on elite women, though this was not an elite-only fashion. This embrace of *hufu* also allowed women to play polo as well, which is seen in ceramic figurines from the Tang Dynasty. [^source4]
+
+
 
 [^source1]: Chen, BuYun. 2019. Empire of Style : Silk and Fashion in Tang China. Seattle: University of Washington Press. Accessed March 11, 2026. ProQuest Ebook Central.
 [^source2]: Berman, Gabrielle. , 2020. "Tang Elite Women and Hufu Clothing: Persian Garments and the Artistic Rendering of Power." Order No. 28262183, The University of Wisconsin - Milwaukee. https://libproxy.unm.edu/login?url=https://www.proquest.com/dissertations-theses/tang-elite-women-hufu-clothing-persian-garments/docview/2494240484/se-2.
