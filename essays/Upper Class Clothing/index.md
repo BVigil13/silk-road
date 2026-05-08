@@ -7,35 +7,51 @@ thumbnail: images/byz-dress.png
 summary: The Silk Road offered an influence over Upper Class women's dress and style.
 ---
 
-# Multi-Lingualism: The Invented Tradition
+# Elite Women, Their Clothing, and Fashion on the Silk Road
 
-This webpage shows you what we call the Forest level. This essay demonstrates **advanced ScrollStory features**—everything from Seedling and Sapling, plus background image switching, juxtapose comparisons, and multi-section scrollyboxes. This is the full cinematic experience.
-
-**What makes this a "Forest" essay?** It includes every component Xanthan offers: all the basics (headings, images, footnotes), Sapling features (scrollyboxes, carousels), plus advanced techniques for complex visual narratives. Use this when you want maximum storytelling power.
-
-The text below explains each advanced feature as you encounter it, mixed with some filler to show pacing.
+The Silk Road, while not a set route across Asia and the Middle East, was significantly influential throughout the countries it connected. One such influence that came from the Silk Road was silk itself. Silk traveled in many forms, but the most common was as bolts of raw silk. However, that silk could eventually become garments. All along the Silk Road, there were many upper-class families, and the women in the families would work with silk and more often than not, wear the garments. Every country had their own patterns embroidered in the silk, and the beauty of the Silk Road is how those motifs traveled.
 
 
-## All the Basics Still Work
+## Tang China
+{% include images/figure.html
+class="left"
+width="48%"
+caption="Right-aligned images work exactly like Seedling and Sapling. Every skill you've learned carries forward. [Source](Chen, BuYun. 2019. Empire of Style : Silk and Fashion in Tang China. Seattle: University of Washington Press. Accessed March 11, 2026. ProQuest Ebook Central.)"
+image-path="images/tang-dynasty-women.jpg"
+%}
+
+In Tang China from the 6th to 8th centuries, there is evidence of women wearing silk garments of many colors and patterns. The weavers who created these garments were very skilled and crucial to the Tang Dynasty. The many patterns were sought after. Decorated silk was favored by elites who wanted to appear fashionable as well. One painting titled *Court Ladies Pinning Their Hair with Flowers*, which is on a handscroll, depicts several of these elite women and an attendant. Their elegant clothing and the shine of it “suggest that cloaks and shawls made from silk-netted sheer gauze were de rigueur at the time of the painting’s production.” [^source1] This painting also shows what their outfits may have looked like, and the difference between the elite women and the attendant serving them. They all have overskirts that allow their underskirts to peek out slightly, and the elite women are wearing garments with elaborate patterns. Their gauze shawls are also lightly dyed and have a very subtle design as well. The attendant's clothing, however, is plainer than the others, and she is depicted smaller in the foreground. This painting gives us insight into social stratification in Tang China as well. The attendant being portrayed as smaller and less focused on her shows that she was deemed unimportant, but still vital to the elite women being depicted. She was an important part of their lives, but not enough to be depicted with the same care and devotion to detail as the other women.
+
 {% include images/figure.html
 class="right"
 width="48%"
-caption="Right-aligned images work exactly like Seedling and Sapling. Every skill you've learned carries forward. [Source](https://commons.wikimedia.org/wiki/File:Khiva_town_of_The_Silk_Road_(%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%BD,_%D0%98%D1%87%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BB%D0%B0,_%D0%A5%D0%B8%D0%B2%D0%B0).jpg)"
-image-path="images/ota-gate-khiva2.jpg"
+caption="Group of Attendants and Court Ladies, 706 A.D."[Source](Group of Attendants and Court Ladies, 706 A.D. Painted mural, 176 cm x 196.5 cm, Princess Yongtai’s
+tomb antechamber, East wall, Shaanxi History Museum, Shaanxi province)
+image-path="images/Court_Ladies_of_the_Tang_hufu.jpg"
 %}
 
-Forest doesn't replace Seedling or Sapling—it **includes** them. You can mix simple images, footnotes, and section headings[^note1] with the advanced features we're about to show you.
+Another popular style for women was hufu dress, which was made up of “composed of robes, such as the kaftan or tunic, a belt, trousers, boots and hats” [^source2]. It was very simple, and this simplicity lent itself well to outdoor activity. However, as this was a foreign fashion style from Persia, and typically for men, it was looked down on for women to wear. While *Court Ladies Pinning Their Hair With Flowers* was classical Tang clothing for women, hufu was “a type of Tang fashion, which inspired women to push the boundaries of the Tang female identity” [^source3]. In the mural in the tomb of Princess Yongtai, there is a depiction of this style on elite women, though this was not an elite-only fashion. This embrace of *hufu* also allowed women to play polo as well, which is seen in ceramic figurines from the Tang Dynasty. [^source4]
 
-[^note1]: Footnotes work in Forest essays exactly as they do everywhere else.
+{% include images/figure.html
+class="left"
+width="48%"
+caption="Tomb Figures of Four Ladies Playing Polo"[Source](Tomb Figures of Four Ladies of the Court Playing Polo, ca. seventh-eighth century,
+painted pottery, 10 in x 5.5 in x 13.5 in, Xi’an, Shaanxi province, Nelson Atkins Museum of
+Art, Kansas City. https://art.nelson-atkins.org/objects/19795/four-ladies-of-the-court-playing-
+polo;jsessionid=D63181814A10F1B65E5A7CEA8B9ED641?ctx=44577f1c-2994-4b5a-be01-
+15b47b38c5a5&idx=4806
+)
+image-path="images/court-ladies-playing-polo.jpg"
+%}
 
-The key to Forest essays is knowing when to use which tool. Not every moment needs a cinematic treatment. Sometimes a simple image alongside text is exactly right.
+[^source1]: Chen, BuYun. 2019. Empire of Style : Silk and Fashion in Tang China. Seattle: University of Washington Press. Accessed March 11, 2026. ProQuest Ebook Central.
+[^source2]: Berman, Gabrielle. , 2020. "Tang Elite Women and Hufu Clothing: Persian Garments and the Artistic Rendering of Power." Order No. 28262183, The University of Wisconsin - Milwaukee. https://libproxy.unm.edu/login?url=https://www.proquest.com/dissertations-theses/tang-elite-women-hufu-clothing-persian-garments/docview/2494240484/se-2.
+[^source3]:  Berman, Gabrielle. , 2020. "Tang Elite Women and Hufu Clothing: Persian Garments and the Artistic Rendering of Power." Order No. 28262183, The University of Wisconsin - Milwaukee. https://libproxy.unm.edu/login?url=https://www.proquest.com/dissertations-theses/tang-elite-women-hufu-clothing-persian-garments/docview/2494240484/se-2.
+[^source4]: Tomb Figures of Four Ladies of the Court Playing Polo, ca. seventh-eighth century, painted pottery, 10 in x 5.5 in x 13.5 in, Xi’an, Shaanxi province, Nelson Atkins Museum of Art, Kansas City. https://art.nelson-atkins.org/objects/19795/four-ladies-of-the-court-playing-polo;jsessionid=D63181814A10F1B65E5A7CEA8B9ED641?ctx=44577f1c-2994-4b5a-be01-15b47b38c5a5&idx=4806
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis.[^note2]
-
-[^note2]: You can use footnotes throughout Forest essays for citations and elaboration.
 
 
-## Juxtapose: Before/After Comparisons
+## India
 Below you'll see a **juxtapose component**—an interactive slider that lets readers compare two images by dragging a handle left and right. Perfect for before/after, then/now, or any two related images.
 
 {% include images/juxtapose.html
@@ -55,7 +71,7 @@ caption="Two shades of color on the Ota Gate."
 Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum.
 
 
-## Standard Scrollybox (From Sapling)
+## Byzantine Empire
 The next section uses a basic scrollybox like you saw in Sapling. Keep scrolling to see text overlay a full-screen background image.
 
 {% include scrollybox/bg.html
