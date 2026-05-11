@@ -57,14 +57,16 @@ In Gupta India there were many textiles of importance that were commonly worn. T
 
 In terms of women of high status, Moti goes on to describe the robes women wore had beautiful patterns and states that “a divine woman is represented as wearing a dazzling muslin robe embroidered with hundreds of diverse flowers and birds and gently rippled by the motion of the breeze.” [^source9] Women also dressed for the weather, having many silken outfits to fit. In summer, lighter saris were common, while in spring they were in saris with breastbands. In Northern India the clothing was similar in that the clothing was rarely sewn. Women “wore a long robe which covered both of their shoulders and fell down loose.” [^source10]. There is not very much detail about their costume other than this, leading to much speculation on what the women of North India properly wore.
 
-From the small information we have on women in the Gupta empire, we can tell much about their costume. First, we know that if a woman was high class, due to divine women being described wearing such things, she likely would have a very intricately decorated sari. We can also glean that silk was the most common textile to wear for women, second being cotton due to its lightweight and breathability in the hot weather. Women also typically had the clothing decorated with natural designs, such as flowers and birds. This is supported by the depiction described in Moti’s book, and the intricate designs can be seen on items such as the mirror handle pictured here. While this mirror handle is small, we can observe there is a focus on detailing around her garments and there is a high level of care taken to present these details.
-
 {% include images/figure.html
 class="left"
 width="48%"
 caption="This mirror handle depicts a woman leisurly playing an instrument. There is defined details on her clothing."
 image-path="images/mirror-handle-from-india"
 %}
+
+From the small information we have on women in the Gupta empire, we can tell much about their costume. First, we know that if a woman was high class, due to divine women being described wearing such things, she likely would have a very intricately decorated sari. We can also glean that silk was the most common textile to wear for women, second being cotton due to its lightweight and breathability in the hot weather. Women also typically had the clothing decorated with natural designs, such as flowers and birds. This is supported by the depiction described in Moti’s book, and the intricate designs can be seen on items such as the mirror handle pictured here. While this mirror handle is small, we can observe there is a focus on detailing around her garments and there is a high level of care taken to present these details.
+
+
 
 [^source5]: Chandra, Moti. The History of Indian Costume from the 3rd Century A.D. To the End of the 7th Century A.D. Journal of the Indian Society. Journal of Indian Society, 1956. https://ignca.gov.in/Asi_data/7697.pdf.
 [^source6]: Chandra, Moti. The History of Indian Costume from the 3rd Century A.D. To the End of the 7th Century A.D.
