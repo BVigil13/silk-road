@@ -77,15 +77,7 @@ From the small information we have on women in the Gupta empire, we can tell muc
 [^dictionary1]: https://www.merriam-webster.com/dictionary/sari
 
 ## Byzantine Empire
-The next section uses a basic scrollybox like you saw in Sapling. Keep scrolling to see text overlay a full-screen background image.
 
-{% include scrollybox/bg.html
-  height="220vh"
-  position="top"
-  image-path="images/ota-gate-khiva2.jpg"
-  above-box-space = "100vh"
-  box-content=' A sculpture in Khiva offers a romaticized view of the Silk Road trade network.'
-%}
 
 ---
 
