@@ -51,27 +51,28 @@ image-path="images/court-ladies-playing-polo.jpeg"
 ---
 
 
+## Gupta India
 
+In Gupta India there were many textiles of importance that were commonly worn. These textiles were divided into 4 classes, and according to Chandra Moti, they were called “According to Amarasimha… ‘Valka’ (made from bark fibres)... ‘Phala’ (made from fibrous fruits) … ‘Kauseya’ (silk) and Rankkava (made from the hair of a goat).” [^source5] Phala is also inclusive of cotton and similar plants. These textiles were woven on looms and made into clothing for people of all statuses. Women especially were “draped in sari and chadar [and] also wore a vaikaksya.” [^source6] A sari is defined as a garment worn by South-East Asian women, made up of several yards of loose cloth. It is draped in such a way that one end forms a skirt while the other acts as a head and shoulder covering. [^dictionary1] The chadar is most akin to a shawl, and a vaikaksya is a garland worn over the left shoulder and under the right arm [^source7]. Tunics were also common in this time period. Chinese silk was one of the most sought after items to create garments, as it was described as being “made from very smooth silk yarn” [^source8] and was typically dyed red. This directly connects the Gupta Empire with China of the same time period, establishing silk trade, though there is also documentation of Chinese travelers in Gupta India as well. There is also a description of Indian soldiers carrying Chinese cuirasses, further establishing this connection. Chinese cuirasses are typically described as body armor that has been fastened together, or can also be thought of as a corset of sorts.
 
-## India
-Below you'll see a **juxtapose component**—an interactive slider that lets readers compare two images by dragging a handle left and right. Perfect for before/after, then/now, or any two related images.
+In terms of women of high status, Moti goes on to describe the robes women wore had beautiful patterns and states that “a divine woman is represented as wearing a dazzling muslin robe embroidered with hundreds of diverse flowers and birds and gently rippled by the motion of the breeze.” [^source9] Women also dressed for the weather, having many silken outfits to fit. In summer, lighter saris were common, while in spring they were in saris with breastbands. In Northern India the clothing was similar in that the clothing was rarely sewn. Women “wore a long robe which covered both of their shoulders and fell down loose.” [^source10]. There is not very much detail about their costume other than this, leading to much speculation on what the women of North India properly wore.
 
-{% include images/juxtapose.html
-image1="images/ota-gate-demo-brown.png"
-image2="images/ota-gate-demo-gray.png"
-caption="Two shades of color on the Ota Gate."
+From the small information we have on women in the Gupta empire, we can tell much about their costume. First, we know that if a woman was high class, due to divine women being described wearing such things, she likely would have a very intricately decorated sari. We can also glean that silk was the most common textile to wear for women, second being cotton due to its lightweight and breathability in the hot weather. Women also typically had the clothing decorated with natural designs, such as flowers and birds. This is supported by the depiction described in Moti’s book, and the intricate designs can be seen on items such as the mirror handle pictured here. While this mirror handle is small, we can observe there is a focus on detailing around her garments and there is a high level of care taken to present these details.
+
+{% include images/figure.html
+class="left"
+width="48%"
+caption="This mirror handle depicts a woman leisurly playing an instrument. There is defined details on her clothing."
+image-path="images/mirror-handle-from-india"
 %}
 
-**Why use juxtapose?** When you want readers to actively explore the relationship between two images. The interactive slider invites engagement—readers control what they see and how much of each image.
-
-**Use cases:**
-- Historical photos showing change over time
-- Different views of the same location
-- Comparing historical documents or maps
-- Revealing differences that might be subtle
-
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum.
-
+[^source5]: Chandra, Moti. The History of Indian Costume from the 3rd Century A.D. To the End of the 7th Century A.D. Journal of the Indian Society. Journal of Indian Society, 1956. https://ignca.gov.in/Asi_data/7697.pdf.
+[^source6]: Chandra, Moti. The History of Indian Costume from the 3rd Century A.D. To the End of the 7th Century A.D.
+[^source7]: Chandra, Moti. The History of Indian Costume from the 3rd Century A.D. To the End of the 7th Century A.D. Journal of the Indian Society. Journal of Indian Society, 1956. https://ignca.gov.in/Asi_data/7697.pdf.
+[^source8]: Chandra, Moti. The History of Indian Costume from the 3rd Century A.D. To the End of the 7th Century A.D. Journal of the Indian Society. Journal of Indian Society, 1956. https://ignca.gov.in/Asi_data/7697.pdf.
+[^source9]: Chandra, Moti. The History of Indian Costume from the 3rd Century A.D. To the End of the 7th Century A.D. Journal of the Indian Society. Journal of Indian Society, 1956. https://ignca.gov.in/Asi_data/7697.pdf.
+[^source10]: Chandra, Moti. The History of Indian Costume from the 3rd Century A.D. To the End of the 7th Century A.D. Journal of the Indian Society. Journal of Indian Society, 1956. https://ignca.gov.in/Asi_data/7697.pdf. Journal of the Indian Society. Journal of Indian Society, 1956. https://ignca.gov.in/Asi_data/7697.pdf.
+[^dictionary1]: https://www.merriam-webster.com/dictionary/sari
 
 ## Byzantine Empire
 The next section uses a basic scrollybox like you saw in Sapling. Keep scrolling to see text overlay a full-screen background image.
@@ -84,140 +85,6 @@ The next section uses a basic scrollybox like you saw in Sapling. Keep scrolling
   box-content=' A sculpture in Khiva offers a romaticized view of the Silk Road trade network.'
 %}
 
-
-## Pull Quotes for Emphasis
-{% include typography/aside.html class="left" text="
-Pull quotes still work in Forest essays. Mix them with scrollyboxes depending on what your narrative needs at any given moment." %}
-
-Notice how you can shift between immersive full-screen scrollyboxes and traditional pull quotes within the same essay. **Choose the right tool for the moment:**
-
-- Scrollyboxes for dramatic visual immersion
-- Pull quotes for emphasis within ongoing text
-- Standard images for supporting illustrations
-- Juxtapose for interactive comparisons
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
-
-
-## Background Switching: The Advanced Feature
-This is what makes Forest essays truly cinematic. You're about to scroll through a section where the background image **switches** as you read, creating a visual sequence that matches your narrative.
-
-**Watch carefully:** The background will start with one image, then switch to another partway through. The text box stays visible throughout, but the background changes to match what you're reading about.
-
-<!-- this is an unclosed div that needs to be closed with bg-multi-long-close-->
-{% include scrollybox/bg-multi-long.html
-  bg-id="bg1"
-  image-path="images/ota-gate-khiva2.jpg"
-  above-box-space="0"
-  font-size = "150%"
-  line-height = "100%"
-%}
-
-Now we have a text box scrolling up over the first image. At various points (clearly labeled below) **the background image will switch** while the text continues scrolling.
-
-This is perfect for visual sequences: walking through a building room by room, showing historical change over time, or revealing evidence step by step.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec ante ligula. Nulla fringilla ligula sit amet nisl consectetur ultricies. Mauris ac tellus eu ante lobortis rhoncus non eu nisl.
-
-
-### BACKGROUND IMAGE SWITCHES HERE
-
-{% include scrollybox/bg-switch.html
-  image-path="images/ota-gate-demo-brown.png"
-  switch-id="switch1"
-  bg-id="bg1"
-%}
-
-
-### The New Background
-Did you notice the background change? The image switched to the brown tint. Your text continued scrolling, but the visual context shifted.
-
-**Why use background switching?**
-- Narrative sequences (first this happened, then that)
-- Spatial movement (from room to room, place to place)
-- Evidence building (showing multiple sources for one argument)
-- Visual comparisons while maintaining narrative flow
-
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc.
-
-
-#### The End of This Sequence
-Watch as the text box scrolls out of view, followed by the background image fading away. Then normal scrolling resumes.
-
-{% include scrollybox/bg-multi-long-close.html %}
-
-
-## Back to Normal Flow
-Notice how smoothly you transitioned from that immersive multi-image sequence back to regular essay format? That's the power of mixing components.
-
-{% include images/figure.html class="right" width="60%" caption="After an immersive scrollybox sequence, a standard right-aligned image feels grounding and gives readers a break. [Source](https://commons.wikimedia.org/wiki/File:Khiva_town_of_The_Silk_Road_(%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%BD,_%D0%98%D1%87%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BB%D0%B0,_%D0%A5%D0%B8%D0%B2%D0%B0).jpg)"
-image-path="images/ota-gate-khiva2.jpg" %}
-
-**Pacing matters in Forest essays.** If everything is cinematic and immersive, nothing stands out. Use advanced features strategically:
-
-- Build to moments of visual intensity
-- Give readers breaks with standard images and text
-- Save background switching for key narrative turns
-- Use juxtapose when comparison is the point
-
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc.
-
-
-## Image Carousels (From Sapling)
-All Sapling components work in Forest too. Here's a carousel for comparing multiple images:
-
-{% assign images =
-"images/ota-gate-demo-brown.png,
-images/ota-gate-demo-gray.png,
-images/ota-gate-demo-green.png" | split: ','
-%}
-
-{% include images/carousel.html
-images = images
-%}
-
-Carousels work well after intense scrollybox sequences. They're interactive but less immersive than full-screen backgrounds, giving readers some control while maintaining visual interest.
-
-
-## Block Quotes for Primary Sources
-Architectural features of the Ota Darvaza reflect much of the culture of the Silk Road. Random Imaginary Person, a visitor to Khiva, spoke poetically about their experience of the architecture of the gate.
-
-> As I entered the Ota Darvaza, the splendor of the gateway overwhelmed me. [Source](https://en.wikipedia.org/wiki/Ota_Darvaza)
-
-Block quotes continue to work for extended quotations from primary sources. They're visually distinct from scrollybox overlays and provide a rhythm change in your essay.
-
-## What You've Learned in Forest
-If you can create a Forest essay, you have mastered:
-
-- **All Seedling components** - Images, headings, footnotes, pull quotes, block quotes
-- **All Sapling components** - Basic scrollyboxes, carousels, pacing control
-- **Advanced Forest features**:
-  - Juxtapose interactive comparisons
-  - Background image switching on scroll
-  - Multi-section scrollybox sequences
-  - Complex cinematic narratives
-
-**This is the full Xanthan toolkit.** Not every essay needs every feature, but you now have complete control over how to tell visual stories on the web.
-
-**When to use Forest vs. Sapling vs. Seedling?**
-- **Seedling** for straightforward digital essays with images and structure
-- **Sapling** when you want immersive scrollyboxes and carousels
-- **Forest** when your narrative demands cinematic sequences and background switching
-
-**Pro tip:** Start simple and add complexity only where it serves your argument. The best essays use advanced features sparingly, for maximum impact.
-
-**What makes Forest the most advanced template?**
-- Juxtapose interactive image comparisons (before/after, then/now)
-- Background image switching on scroll for dramatic visual transitions
-- Multi-section scrollyboxes with narrative sequences
-- Full cinematic storytelling capabilities
-- Everything from Seedling and Sapling, plus these advanced features
-
-**Feeling overwhelmed?** Start with [Seedling](../camels-example-theme/) or [Sapling](../monasteries-example-theme/) and work your way up. You can always add complexity later once you're comfortable with the basics. Most excellent digital essays use Seedling or Sapling—Forest is for when you truly need cinematic power.
-
 ---
 
-## Bibliography
-
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
-- Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
+## Bibliography Link [^link1] [^link1]: https://docs.google.com/document/d/11VB-pOOUSEymjDvkWmbAbbe6fbIgkEbmJU6x9BLTqeU/edit?tab=t.0
