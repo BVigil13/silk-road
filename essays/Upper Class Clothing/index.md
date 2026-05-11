@@ -76,9 +76,12 @@ From the small information we have on women in the Gupta empire, we can tell muc
 [^source10]: Chandra, Moti. The History of Indian Costume from the 3rd Century A.D. To the End of the 7th Century A.D. Journal of the Indian Society. Journal of Indian Society, 1956. https://ignca.gov.in/Asi_data/7697.pdf. Journal of the Indian Society. Journal of Indian Society, 1956. https://ignca.gov.in/Asi_data/7697.pdf.
 [^dictionary1]: https://www.merriam-webster.com/dictionary/sari
 
-## Byzantine Empire
-
-
 ---
 
-## Bibliography Link [^link1] [^link1]: https://docs.google.com/document/d/11VB-pOOUSEymjDvkWmbAbbe6fbIgkEbmJU6x9BLTqeU/edit?tab=t.0
+
+## Byzantine Empire
+
+During the Byzantine empire, there was much discourse over how women should present themselves.
+---
+
+## Bibliography Link[^link1] [^link1]: https://docs.google.com/document/d/11VB-pOOUSEymjDvkWmbAbbe6fbIgkEbmJU6x9BLTqeU/edit?tab=t.0
