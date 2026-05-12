@@ -81,7 +81,12 @@ From the small information we have on women in the Gupta empire, we can tell muc
 
 ## Byzantine Empire
 
-During the Byzantine empire, there was much discourse over how women should present themselves.
+In the Byzantine Empire, clothing for higher-class women was a complex topic. There was much debate due to the intense mixing of cultures on what a woman should wear. There was the desire for her to be attractive, of course, but there was also the intense need for women to cover up to subvert men’s desires. By the 4th and 5th centuries, “women, especially upper-class women, often wore an outer tunic with ample sleeves, sometimes long, sometimes short, over an under tunic, with long, narrow sleeves” [^source7]. This narrow sleeve was often a topic of debate amongst religious leaders, believing that the showing of a woman’s form was inherently sowing desire. This was added to by the belt that women would wear to cinch the top, underneath their breasts. This was also a stark reminder of women’s sexuality, but also of motherhood, which creates the very core of Byzantine women’s identities.
+
+As for the makeup of these garments, there is evidence that upper-class women’s clothing was made with silk. A common decoration on these garments was also roundels, suggesting trade and influence from Persian culture. Roundels are circular designs that often depict a human form in the center or some story that would have been recognizable at the time. These were also very popular in Persia. Tragically, early pieces of silk and textiles were rarely preserved, but “The fragments that have managed to be preserved are often high quality—brightly colored, silk, fine linen, or wool, perhaps using precious metal threads, skewing our view toward the dress of the wealthy” [^source8]. Overall, Silk was important to elites across the European and Asian continents, its versatility being a key factor in its far travels.
+[^source7]: Ball, Jennifer. Byzantine Dress: A Guide. Taylor & Francis, 2024.
+[^source8]: Ball, Jennifer. Byzantine Dress: A Guide. Taylor & Francis, 2024.
+
 ---
 
 ## Bibliography Link[^link1] [^link1]: https://docs.google.com/document/d/11VB-pOOUSEymjDvkWmbAbbe6fbIgkEbmJU6x9BLTqeU/edit?tab=t.0
